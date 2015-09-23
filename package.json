@@ -1,0 +1,22 @@
+{
+  "name": "Backbone",
+  "version": "1.0.0",
+  "description": "Backbone Single Page Application",
+  "main": "yes",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Prem",
+  "license": "Medocity Inc",
+  "devDependencies": {
+    "express": "^4.13.3"
+  }
+}
